@@ -1,0 +1,12 @@
+@import "modern-normalize";
+
+body {
+  box-sizing: border-box;
+}
+
+:root {
+  --main-color: #101828;
+  --secondary-color: #6c717b;
+  --btn-color: #e44848;
+  --hover-color: #d84343;
+}
